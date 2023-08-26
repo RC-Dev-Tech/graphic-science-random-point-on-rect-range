@@ -26,8 +26,8 @@ export class Example extends IExample {
 
     run(): void {
       // 矩形範圍
-      const left = 5.3;
-      const right = -5.3;
+      const left = -5.3;
+      const right = 5.3;
       const top = -3.7;
       const bottom = 3.7;
          
